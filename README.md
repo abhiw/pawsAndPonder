@@ -1,0 +1,1 @@
+A simple Pomodoro timer for macOS and Android, the two platforms I use every day. The apps I tried were either paid, required a sign-up, or packed in features I'd never use. These do one thing - time your focus sessions. You can choose between a digital and an analogue clock. Storing session history locally is optional. I haven't yet decided whether I need it.
